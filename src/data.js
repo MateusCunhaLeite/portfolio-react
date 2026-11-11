@@ -11,8 +11,8 @@ export const pessoa = {
     'banco de dados e boas práticas de engenharia de software. Busco aprender construindo ' +
     'projetos reais e colaborando com outras pessoas.',
   email: 'mateusafonso12.guara@gmail.com',
-  github: 'https://github.com/SEU-USUARIO',
-  linkedin: 'https://www.linkedin.com/in/SEU-USUARIO',
+  github: 'https://github.com/MateusCunhaLeite',
+  linkedin: 'https://www.linkedin.com/in/mateus-cunha-leite-7414ab287/',
 };
 
 export const formacao = {
@@ -39,7 +39,7 @@ export const projetos = [
     titulo: 'Portfólio com React',
     descricao: 'Este site: portfólio pessoal construído com React e publicado na Vercel.',
     tecnologias: ['React', 'JavaScript', 'CSS3'],
-    link: 'https://github.com/SEU-USUARIO/portfolio-react',
+    link: 'https://github.com/MateusCunhaLeite/portfolio-react',
   },
   {
     titulo: 'Projeto do curso (exemplo)',
